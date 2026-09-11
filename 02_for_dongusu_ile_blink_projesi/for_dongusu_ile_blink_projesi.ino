@@ -1,19 +1,13 @@
-const int led = 3; 
-
+const int LED=9;
 void setup() {
-  pinMode(led, OUTPUT); 
+  pinMode(LED, OUTPUT); 
 }
 
 void loop() {
-  
-  for (int i = 0; i <= 255; i++) {
-    analogWrite(led, i);
-    delay(10); // 10 ms gecikme
-  }
-
-  
-  for (int i = 255; i >= 0; i--) {
-    analogWrite(led, i);
-    delay(10);
+  for (int i = 100; i <= 1000; i = i + 100) {
+    digitalWrite(LED, HIGH);
+    delay(i); 
+    digitalWrite(LED, LOW);
+    delay(i);
   }
 }
