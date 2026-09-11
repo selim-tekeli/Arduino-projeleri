@@ -18,7 +18,7 @@ Bu repository, yapılan Arduino projelerini, devre şemalarını, kodları ve ç
 
 ### 3. PWM ile LED'in Işık Şiddeti Kontrolü
 * **Arduino Kodu:** [pwm_ile_ledin_isik_siddeti_kontrolu.ino](./03_pwm_ile_ledin_isik_siddeti_kontrolu/pwm_ile_ledin_isik_siddeti_kontrolu.ino)
-* **Çalışma Videosu:** [Videoyu İzle](./03_pwm_ile_ledin_isik_siddeti_kontrolu/calisma_videosu.mp4)
+* **Çalışma Videosu:** [Videoyu İzle](./03_pwm_ile_ledin_isik_siddeti_kontrolu/calısma_videosu.mp4)
 
 ---
 
