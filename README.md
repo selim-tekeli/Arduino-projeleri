@@ -112,3 +112,6 @@ https://github.com/user-attachments/assets/cabfeec7-5ce3-4115-a5d2-2dbf5cc6521c
 * **Arduino Kodu:** [arduino_ile_bluetooth_kullanimi.ino](./17_arduino_ile_bluetooth_kullanimi/arduino_ile_bluetooth_kullanimi.ino)
 * **Devre Fotoğrafı:** [Devre Fotoğrafı](./17_arduino_ile_bluetooth_kullanimi/devre_fotosu.jpeg)
 * **Seri Port Fotoğrafı:** [Seri Port Fotoğrafı](./17_arduino_ile_bluetooth_kullanimi/seri_port_fotosu.jpeg)
+<video src="<video src="BURAYA_KOPYALADIGIN_LİNKİ_YAPIŞTIR" controls width="100%">
+</video>" controls width="100%">
+</video>
