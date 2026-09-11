@@ -147,52 +147,6 @@ https://github.com/user-attachments/assets/cabfeec7-5ce3-4115-a5d2-2dbf5cc6521c
 <video src="<video src="BURAYA_KOPYALADIGIN_LİNKİ_YAPIŞTIR" controls width="100%">
 </video>" controls width="100%">
 </video>
-https://github.com/user-attachments/assets/52e8ee8c-c90d-4bab-9fac-1768bc28db9c
-
-
-https://github.com/user-attachments/assets/6087968e-4946-4d38-aa5e-26b9166507f4
-
-
-https://github.com/user-attachments/assets/360e437d-f55e-401d-92cb-d9425f537de6
-
-
-https://github.com/user-attachments/assets/68b047a7-24bf-4941-bf65-a69bc01f7bf7
-
-
-https://github.com/user-attachments/assets/3c9eea18-0fb2-4425-b49b-22255a472fae
-
-
-https://github.com/user-attachments/assets/5c6af4fc-f43a-4a98-8590-5e681fd16af5
-
-
-https://github.com/user-attachments/assets/75e1abd0-0a98-4820-93be-d3e300e33d84
-
-
-https://github.com/user-attachments/assets/e9a225ed-475a-48b0-8364-bd8ad012b34f
-
-
-https://github.com/user-attachments/assets/e64da86e-88ef-4ef6-8170-3ff3306057d1
-
-
-https://github.com/user-attachments/assets/6bd61a23-41d4-42d2-a645-e4665102275e
-
-
-https://github.com/user-attachments/assets/03e5cfaf-9b2e-4299-a9ef-89728ef17f1b
-
-
-https://github.com/user-attachments/assets/8359eb4d-4143-497c-b8a2-7541107935b8
-
-
-https://github.com/user-attachments/assets/d473094f-007a-4c67-9dc7-13e6cbdf3020
-
-
-https://github.com/user-attachments/assets/8651c2cc-bf69-4894-8893-0caa64dc8b8f
-
-
-https://github.com/user-attachments/assets/7354badf-bd9e-4028-99c9-be8edd82c614
-
-
-https://github.com/user-attachments/assets/6bcb4a68-3d92-4d2f-921f-14cd599b9d9b
 
 
 
