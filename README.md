@@ -145,7 +145,7 @@ Bu repository, yapılan Arduino projelerini, devre şemalarını, kodları ve ç
 * **Arduino Kodu:** [arduino_ile_bluetooth_kullanimi.ino](./17_arduino_ile_bluetooth_kullanimi/arduino_ile_bluetooth_kullanimi.ino)
 * **Devre Fotoğrafı:** [Devre Fotoğrafı](./17_arduino_ile_bluetooth_kullanimi/devre_fotosu.jpeg)
 * **Seri Port Fotoğrafı:** [Seri Port Fotoğrafı](./17_arduino_ile_bluetooth_kullanimi/seri_port_fotosu.jpeg)
-<video src="<video src="BURAYA_KOPYALADIGIN_LİNKİ_YAPIŞTIR" controls width="100%">
+
 
 
 
