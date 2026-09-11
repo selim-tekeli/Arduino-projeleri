@@ -14,7 +14,7 @@ Bu repository, yapılan Arduino projelerini, devre fotoğraflarını ve çalış
 
 \* \*\*Kod:\*\* \[1\_led\_calistirma.ino](./01\_led\_calistirma/1\_led\_calistirma.ino)
 
-\* \*\*Çalışma Videosu:\*\* \[Videoyu İzle](https://github.com/selim-tekeli/arduino-projeleri/raw/main/01\_led\_calistirma/calisma\_videosu.mp4)
+\* \*\*Çalışma Videosu:\*\* \[Videoyu İzle](./01\_led\_calistirma/calisma\_videosu.mp4)
 
 
 
@@ -26,7 +26,7 @@ Bu repository, yapılan Arduino projelerini, devre fotoğraflarını ve çalış
 
 \* \*\*Kod:\*\* \[for\_dongusu\_ile\_blink\_projesi.ino](./02\_for\_dongusu\_ile\_blink\_projesi/for\_dongusu\_ile\_blink\_projesi.ino)
 
-\* \*\*Çalışma Videosu:\*\* \[Videoyu İzle](https://github.com/selim-tekeli/arduino-projeleri/raw/main/02\_for\_dongusu\_ile\_blink\_projesi/calisma\_videosu.mp4)
+\* \*\*Çalışma Videosu:\*\* \[Videoyu İzle](./02\_for\_dongusu\_ile\_blink\_projesi/calisma\_videosu.mp4)
 
 
 
@@ -38,7 +38,7 @@ Bu repository, yapılan Arduino projelerini, devre fotoğraflarını ve çalış
 
 \* \*\*Kod:\*\* \[3\_pwm\_ile\_ledin\_isik\_siddeti\_kontrolu.ino](./03\_pwm\_ile\_ledin\_isik\_siddeti\_kontrolu/3\_pwm\_ile\_ledin\_isik\_siddeti\_kontrolu.ino)
 
-\* \*\*Çalışma Videosu:\*\* \[Videoyu İzle](https://github.com/selim-tekeli/arduino-projeleri/raw/main/03\_pwm\_ile\_ledin\_isik\_siddeti\_kontrolu/calisma\_videosu.mp4)
+\* \*\*Çalışma Videosu:\*\* \[Videoyu İzle](./03\_pwm\_ile\_ledin\_isik\_siddeti\_kontrolu/calisma\_videosu.mp4)
 
 
 
@@ -52,7 +52,7 @@ Bu repository, yapılan Arduino projelerini, devre fotoğraflarını ve çalış
 
 \* \*\*Devre Fotoğrafı:\*\* \[Devre Fotoğrafı](./04\_buton\_ile\_led\_kontrolu/devre\_fotosu.jpeg)
 
-\* \*\*Çalışma Videosu:\*\* \[Videoyu İzle](https://github.com/selim-tekeli/arduino-projeleri/raw/main/04\_buton\_ile\_led\_kontrolu/calisma\_videosu.mp4)
+\* \*\*Çalışma Videosu:\*\* \[Videoyu İzle](./04\_buton\_ile\_led\_kontrolu/calisma\_videosu.mp4)
 
 
 
@@ -66,7 +66,7 @@ Bu repository, yapılan Arduino projelerini, devre fotoğraflarını ve çalış
 
 \* \*\*Devre Fotoğrafı:\*\* \[Devre Fotoğrafı](./05\_rgb\_uygulama/devre\_fotosu.jpeg)
 
-\* \*\*Çalışma Videosu:\*\* \[Videoyu İzle](https://github.com/selim-tekeli/arduino-projeleri/raw/main/05\_rgb\_uygulama/calisma\_videosu.mp4)
+\* \*\*Çalışma Videosu:\*\* \[Videoyu İzle](./05\_rgb\_uygulama/calisma\_videosu.mp4)
 
 
 
@@ -80,7 +80,7 @@ Bu repository, yapılan Arduino projelerini, devre fotoğraflarını ve çalış
 
 \* \*\*Devre Fotoğrafı:\*\* \[Devre Fotoğrafı](./06\_her\_butona\_basilmasiyla\_rgb\_ledin\_renk\_degistirmesi/devre\_fotosu.jpeg)
 
-\* \*\*Çalışma Videosu:\*\* \[Videoyu İzle](https://github.com/selim-tekeli/arduino-projeleri/raw/main/06\_her\_butona\_basilmasiyla\_rgb\_ledin\_renk\_degistirmesi/calisma\_videosu.mp4)
+\* \*\*Çalışma Videosu:\*\* \[Videoyu İzle](./06\_her\_butona\_basilmasiyla\_rgb\_ledin\_renk\_degistirmesi/calisma\_videosu.mp4)
 
 
 
@@ -104,7 +104,7 @@ Bu repository, yapılan Arduino projelerini, devre fotoğraflarını ve çalış
 
 \* \*\*Devre Fotoğrafı:\*\* \[Devre Fotoğrafı](./08\_su\_seviyesi/devre\_fotosu.jpeg)
 
-\* \*\*Çalışma Videosu:\*\* \[Videoyu İzle](https://github.com/selim-tekeli/arduino-projeleri/raw/main/08\_su\_seviyesi/calisma\_videosu.mp4)
+\* \*\*Çalışma Videosu:\*\* \[Videoyu İzle](./08\_su\_seviyesi/calisma\_videosu.mp4)
 
 
 
@@ -118,7 +118,7 @@ Bu repository, yapılan Arduino projelerini, devre fotoğraflarını ve çalış
 
 \* \*\*Devre Fotoğrafı:\*\* \[Devre Fotoğrafı](./09\_ultrasonik\_mesafe\_sensoru\_kullanimi/devre\_fotosu.jpeg)
 
-\* \*\*Çalışma Videosu:\*\* \[Videoyu İzle](https://github.com/selim-tekeli/arduino-projeleri/raw/main/09\_ultrasonik\_mesafe\_sensoru\_kullanimi/calisma\_videosu.mp4)
+\* \*\*Çalışma Videosu:\*\* \[Videoyu İzle](./09\_ultrasonik\_mesafe\_sensoru\_kullanimi/calisma\_videosu.mp4)
 
 
 
@@ -154,7 +154,7 @@ Bu repository, yapılan Arduino projelerini, devre fotoğraflarını ve çalış
 
 \* \*\*Kod:\*\* \[pcden\_gonderilen\_tek\_karakter\_ile\_led\_kontrolu.ino](./12\_pcden\_gonderilen\_tek\_karakter\_ile\_led\_kontrolu/pcden\_gonderilen\_tek\_karakter\_ile\_led\_kontrolu.ino)
 
-\* \*\*Çalışma Videosu:\*\* \[Videoyu İzle](https://github.com/selim-tekeli/arduino-projeleri/raw/main/12\_pcden\_gonderilen\_tek\_karakter\_ile\_led\_kontrolu/calisma\_videosu.mp4)
+\* \*\*Çalışma Videosu:\*\* \[Videoyu İzle](./12\_pcden\_gonderilen\_tek\_karakter\_ile\_led\_kontrolu/calisma\_videosu.mp4)
 
 
 
@@ -166,7 +166,7 @@ Bu repository, yapılan Arduino projelerini, devre fotoğraflarını ve çalış
 
 \* \*\*Kod:\*\* \[serial\_monitorden\_gonderilen\_veriler\_ile\_rgb\_led\_ayarlama.ino](./13\_serial\_monitorden\_gonderilen\_veriler\_ile\_rgb\_led\_ayarlama/serial\_monitorden\_gonderilen\_veriler\_ile\_rgb\_led\_ayarlama.ino)
 
-\* \*\*Çalışma Videosu:\*\* \[Videoyu İzle](https://github.com/selim-tekeli/arduino-projeleri/raw/main/13\_serial\_monitorden\_gonderilen\_veriler\_ile\_rgb\_led\_ayarlama/calisma\_videosu.mp4)
+\* \*\*Çalışma Videosu:\*\* \[Videoyu İzle](./13\_serial\_monitorden\_gonderilen\_veriler\_ile\_rgb\_led\_ayarlama/calisma\_videosu.mp4)
 
 
 
@@ -178,7 +178,7 @@ Bu repository, yapılan Arduino projelerini, devre fotoğraflarını ve çalış
 
 \* \*\*Kod:\*\* \[arduino\_ile\_klavyeden\_windows\_oturumunu\_kilitlemek.ino](./14\_arduino\_ile\_klavyeden\_windows\_oturumunu\_kilitlemek/arduino\_ile\_klavyeden\_windows\_oturumunu\_kilitlemek.ino)
 
-\* \*\*Çalışma Videosu:\*\* \[Videoyu İzle](https://github.com/selim-tekeli/arduino-projeleri/raw/main/14\_arduino\_ile\_klavyeden\_windows\_oturumunu\_kilitlemek/calisma\_videosu.mp4)
+\* \*\*Çalışma Videosu:\*\* \[Videoyu İzle](./14\_arduino\_ile\_klavyeden\_windows\_oturumunu\_kilitlemek/calisma\_videosu.mp4)
 
 
 
@@ -192,7 +192,7 @@ Bu repository, yapılan Arduino projelerini, devre fotoğraflarını ve çalış
 
 \* \*\*Devre Fotoğrafı:\*\* \[Devre Fotoğrafı](./15\_leonardo\_ile\_fare\_kontrolu/devre\_fotosu.jpeg)
 
-\* \*\*Çalışma Videosu:\*\* \[Videoyu İzle](https://github.com/selim-tekeli/arduino-projeleri/raw/main/15\_leonardo\_ile\_fare\_kontrolu/calisma\_videosu.mp4)
+\* \*\*Çalışma Videosu:\*\* \[Videoyu İzle](./15\_leonardo\_ile\_fare\_kontrolu/calisma\_videosu.mp4)
 
 
 
@@ -204,7 +204,7 @@ Bu repository, yapılan Arduino projelerini, devre fotoğraflarını ve çalış
 
 \* \*\*Kod:\*\* \[seri\_lcd\_kullanarak\_veri\_goruntuleme.ino](./16\_seri\_lcd\_kullanarak\_veri\_goruntuleme/seri\_lcd\_kullanarak\_veri\_goruntuleme.ino)
 
-\* \*\*Çalışma Videosu:\*\* \[Videoyu İzle](https://github.com/selim-tekeli/arduino-projeleri/raw/main/16\_seri\_lcd\_kullanarak\_veri\_goruntuleme/calisma\_videosu.mp4)
+\* \*\*Çalışma Videosu:\*\* \[Videoyu İzle](./16\_seri\_lcd\_kullanarak\_veri\_goruntuleme/calisma\_videosu.mp4)
 
 
 
