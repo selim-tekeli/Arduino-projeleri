@@ -1,10 +1,9 @@
 
 
-https://github.com/user-attachments/assets/d4be130e-231f-49e7-b505-d1785ca8c3eb
 
 
 
-https://github.com/user-attachments/assets/09a8da90-ff2a-4c5c-907d-1b9a145d28a4
+
 
 # Arduino Projeleri
 
