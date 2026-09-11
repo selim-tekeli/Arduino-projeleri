@@ -1,3 +1,11 @@
+
+
+https://github.com/user-attachments/assets/d4be130e-231f-49e7-b505-d1785ca8c3eb
+
+
+
+https://github.com/user-attachments/assets/09a8da90-ff2a-4c5c-907d-1b9a145d28a4
+
 # Arduino Projeleri
 
 Bu repository, yapılan Arduino projelerini, devre şemalarını, kodları ve çalışma videolarını içerir.
@@ -119,5 +127,11 @@ https://github.com/user-attachments/assets/52e8ee8c-c90d-4bab-9fac-1768bc28db9c
 
 
 https://github.com/user-attachments/assets/6087968e-4946-4d38-aa5e-26b9166507f4
+
+
+https://github.com/user-attachments/assets/360e437d-f55e-401d-92cb-d9425f537de6
+<video src="https://github.com/user-attachments/assets/https://github.com/user-attachments/assets/360e437d-f55e-401d-92cb-d9425f537de6" controls width="100%"></video>
+
+
 
 
