@@ -115,3 +115,4 @@ https://github.com/user-attachments/assets/cabfeec7-5ce3-4115-a5d2-2dbf5cc6521c
 <video src="<video src="BURAYA_KOPYALADIGIN_LİNKİ_YAPIŞTIR" controls width="100%">
 </video>" controls width="100%">
 </video>
+https://github.com/user-attachments/assets/52e8ee8c-c90d-4bab-9fac-1768bc28db9c
