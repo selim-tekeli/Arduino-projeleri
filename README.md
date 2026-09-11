@@ -92,9 +92,9 @@ Bu repository, yapılan Arduino projelerini, devre şemalarını, kodları ve ç
 ---
 
 ### 15. Leonardo ile Fare Kontrolü
-* **Arduino Kodu:** [Leonardo_ile_fare_kontrolu.ino](./15_Leonardo_ile_fare_kontrolu/Leonardo_ile_fare_kontrolu.ino)
-* **Devre Fotoğrafı:** [Devre Fotoğrafı](./15_Leonardo_ile_fare_kontrolu/devre_fotosu.jpeg)
-* **Çalışma Videosu:** [Videoyu İzle](./15_Leonardo_ile_fare_kontrolu/calisma_videosu.mp4)
+* **Arduino Kodu:** [Leonardo_ile_fare_kontrolu.ino](./15_leonardo_ile_fare_kontrolu/Leonardo_ile_fare_kontrolu.ino)
+* **Devre Fotoğrafı:** [Devre Fotoğrafı](./15_leonardo_ile_fare_kontrolu/devre_fotosu.jpeg)
+* **Çalışma Videosu:** [Videoyu İzle](./15_leonardo_ile_fare_kontrolu/calisma_videosu.mp4)
 
 ---
 
