@@ -81,6 +81,10 @@ Bu repository, yapılan Arduino projelerini, devre şemalarını, kodları ve ç
 
 ### 13. Serial Monitörden Gönderilen Veriler ile RGB LED Ayarlama
 * **Arduino Kodu:** [serial_monitorden_gonderilen_veriler_ile_rgb_led_ayarlama.ino](./13_serial_monitorden_gonderilen_veriler_ile_rgb_led_ayarlama/serial_monitorden_gonderilen_veriler_ile_rgb_led_ayarlama.ino)
+
+https://github.com/user-attachments/assets/cabfeec7-5ce3-4115-a5d2-2dbf5cc6521c
+
+
 * **Çalışma Videosu:** [Videoyu İzle](./13_serial_monitorden_gonderilen_veriler_ile_rgb_led_ayarlama/calisma_videosu.mp4)
 
 ---
