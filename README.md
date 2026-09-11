@@ -29,7 +29,7 @@ Bu repository, yapılan Arduino projelerini, devre şemalarını, kodları ve ç
 * **Çalışma Videosu:** [Videoyu İzle](./03_pwm_ile_ledin_isik_siddeti_kontrolu/calısma_videosu.mp4)
 * <video src="https://github.com/user-attachments/assets/https://github.com/user-attachments/assets/68b047a7-24bf-4941-bf65-a69bc01f7bf7" controls width="100%"></video>
 
-https://github.com/user-attachments/assets/5c001c57-703e-4adc-b564-a2c22f89e75b
+
 
 
 
@@ -155,7 +155,7 @@ https://github.com/user-attachments/assets/5c001c57-703e-4adc-b564-a2c22f89e75b
 
 
 
-https://github.com/user-attachments/assets/e86c0aa6-9ec3-4ce7-911b-d3bdac9a85ef
+
 
 
 
