@@ -108,8 +108,9 @@ https://github.com/user-attachments/assets/5c001c57-703e-4adc-b564-a2c22f89e75b
 
 ### 13. Serial Monitörden Gönderilen Veriler ile RGB LED Ayarlama
 * **Arduino Kodu:** [serial_monitorden_gonderilen_veriler_ile_rgb_led_ayarlama.ino](./13_serial_monitorden_gonderilen_veriler_ile_rgb_led_ayarlama/serial_monitorden_gonderilen_veriler_ile_rgb_led_ayarlama.ino)
+* <video src="https://github.com/user-attachments/assets/https://github.com/user-attachments/assets/e86c0aa6-9ec3-4ce7-911b-d3bdac9a85ef" controls width="100%"></video>
 
-https://github.com/user-attachments/assets/cabfeec7-5ce3-4115-a5d2-2dbf5cc6521c
+
 
 
 * **Çalışma Videosu:** [Videoyu İzle](./13_serial_monitorden_gonderilen_veriler_ile_rgb_led_ayarlama/calisma_videosu.mp4)
@@ -147,6 +148,15 @@ https://github.com/user-attachments/assets/cabfeec7-5ce3-4115-a5d2-2dbf5cc6521c
 <video src="<video src="BURAYA_KOPYALADIGIN_LİNKİ_YAPIŞTIR" controls width="100%">
 </video>" controls width="100%">
 </video>
+
+
+
+
+
+
+
+https://github.com/user-attachments/assets/e86c0aa6-9ec3-4ce7-911b-d3bdac9a85ef
+
 
 
 
