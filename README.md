@@ -21,6 +21,7 @@ Bu repository, yapılan Arduino projelerini, devre şemalarını, kodları ve ç
 ### 2. For Döngüsü ile Blink Projesi
 * **Arduino Kodu:** [for_dongusu_ile_blink_projesi.ino](./02_for_dongusu_ile_blink_projesi/for_dongusu_ile_blink_projesi.ino)
 * **Çalışma Videosu:** [Videoyu İzle](./02_for_dongusu_ile_blink_projesi/calısma_videosu.mp4)
+* <video src="https://github.com/user-attachments/assets/https://github.com/user-attachments/assets/360e437d-f55e-401d-92cb-d9425f537de6" controls width="100%"></video>
 
 ---
 
@@ -130,7 +131,7 @@ https://github.com/user-attachments/assets/6087968e-4946-4d38-aa5e-26b9166507f4
 
 
 https://github.com/user-attachments/assets/360e437d-f55e-401d-92cb-d9425f537de6
-<video src="https://github.com/user-attachments/assets/https://github.com/user-attachments/assets/360e437d-f55e-401d-92cb-d9425f537de6" controls width="100%"></video>
+
 
 
 
