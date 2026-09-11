@@ -1,16 +1,14 @@
-const int Led = 2;    
-const int Buton = 4;  
-
-void setup() {
-  pinMode(Led, OUTPUT);   
-  pinMode(Buton, INPUT);  
+const int led=3; 
+void setup ()
+{
+  pinMode (led, OUTPUT); 
 }
 
-void loop() {
-  
-  if (digitalRead(Buton) == HIGH) {
-    digitalWrite(Led, HIGH);
-  } else {
-    digitalWrite(Led, LOW);
+void loop()
+{
+  for (int i=0;i<=255;i++)
+  {
+    analogWrite(led,i); 
+    delay(10);
   }
 }
