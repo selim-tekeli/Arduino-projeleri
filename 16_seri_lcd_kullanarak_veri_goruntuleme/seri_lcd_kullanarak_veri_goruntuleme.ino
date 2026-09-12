@@ -1,39 +1,31 @@
-#include <SoftwareSerial.h>
-
-int led = 13;
-SoftwareSerial BTSerial(10, 11);
+#include <Wire.h>
+#include <LiquidCrystal_I2C.h>
 
 
-byte okunan = 0;
-int key = 9;
+
+LiquidCrystal_I2C lcd(0x27, 16, 2);
+
+int n = 1; 
 
 void setup() {
-  BTSerial.begin(9600);
-  Serial.begin(9600);
-  pinMode(led, OUTPUT);
-  pinMode(key, OUTPUT);
-  digitalWrite(key, LOW);
+  lcd.init();          
+  lcd.backlight();     
   
+  lcd.setCursor(0, 0); 
+  lcd.print("MERHABA ARDUINO TEST");
+  
+  lcd.setCursor(0, 1); 
+  lcd.print("SAYAC: ");
 }
 
 void loop() {
+  lcd.setCursor(7, 1); 
+  lcd.print(n);
   
   
+  if (n < 10) lcd.print("   "); 
+  else if (n < 100) lcd.print("  ");
 
-  while (BTSerial.available()) {
-    okunan = BTSerial.read(); 
-    if (okunan == '0') 
-    {
-      
-      digitalWrite(led, LOW);
-      Serial.println("led kapali");
-    }
-    else if (okunan == '1') 
-    {
-      
-      digitalWrite(led, HIGH);
-      Serial.println("led acik");
-    }
-    delay(50);
-  }
+  n = n + 1;
+  delay(1000); 
 }
