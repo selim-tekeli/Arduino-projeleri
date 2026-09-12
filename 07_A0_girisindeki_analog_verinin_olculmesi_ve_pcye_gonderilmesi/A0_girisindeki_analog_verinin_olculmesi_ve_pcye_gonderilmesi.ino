@@ -1,25 +1,14 @@
-const int giris = A0; 
-int deger = 0;        
-const int led = 2;    
+const int POT=0; 
+int deger=0; 
 
-void setup() {
-  Serial.begin(9600);      
-  pinMode(led, OUTPUT);    
+void setup ()
+{
+  Serial.begin(9600) ; 
 }
 
-void loop() {
-  deger = analogRead(giris); 
-
-  if (deger > 512) {
-    digitalWrite(led, HIGH); 
-    Serial.print("Sivi seviyesi degeri: ");
-    Serial.println(deger);
-  } 
-  else {
-    digitalWrite(led, LOW);  
-    Serial.print("Sivi seviyesi degeri: ");
-    Serial.println(deger);
-  }
-
-  delay(50); 
+void loop ()
+{
+  deger=analogRead (POT) ; 
+  Serial.println (deger) ; 
+  delay (500) ; 
 }
