@@ -1,17 +1,17 @@
-const int pot = 0; 
+#include <Ultrasonic.h>
+
+Ultrasonic ultrasonikSensor(12, 13);
 
 void setup() {
-  Serial.begin(9600); 
+  Serial.begin(9600);
 }
 
 void loop() {
-  int deger = analogRead(pot);
+  Serial.print("Engele Olan mesafe: ");
+  Serial.print(ultrasonikSensor.distanceRead());
   
-  int yuzdelikDeger = map(deger, 0, 1023, 0, 100);
-  Serial.print("okunan veri:");
-  Serial.print(deger);
-  Serial.print("yuzdelik deger:");
-  Serial.print("%");
-  Serial.println(yuzdelikDeger);
+  Serial.println("cm");
   delay(500);
 }
+
+
