@@ -1,47 +1,19 @@
-#include <Mouse.h>
+#include <Keyboard.h>
 
-const int solButon = 6; 
-const int ortaButon = 5; 
-const int sagButon = 4; 
-const int xEkseni = 0; 
-const int yEkseni = 1; 
-
+const int ldr = 1; 
+const int SinirDeger = 200; 
 void setup() {
-  Mouse.begin(); 
+  Keyboard.begin(); 
 }
 
 void loop() {
-  int yKoord = joystickOku(yEkseni); 
-  int xKoord = joystickOku(xEkseni); 
-  Mouse.move(xKoord, yKoord, 0); 
-  butonOku(solButon, MOUSE_LEFT); 
-  butonOku(sagButon, MOUSE_RIGHT); 
-  butonOku(ortaButon, MOUSE_MIDDLE); 
-  delay(5);
-}
-
-int joystickOku(int eksen) {
-  int deger = analogRead(eksen);
-  deger = map(deger, 0, 1023, -10, 10);
-
-  if (deger <= 2 && deger >= -2) 
-    return 0;
-  else
-    return deger;
-}
-
-
-void butonOku(int pin, char mouseKomut) {
-  if (digitalRead(pin) == HIGH) 
-  {
-    if (!Mouse.isPressed(mouseKomut)) {
-      Mouse.press(mouseKomut); 
-    }
-  } 
-  else // tuş basılı değilse
-  {
-    if (Mouse.isPressed(mouseKomut)) {
-      Mouse.release(mouseKomut); 
-    }
+  int sensorDeger = analogRead(ldr); 
+  
+  
+  if (sensorDeger < SinirDeger) {
+    Keyboard.press(KEY_LEFT_GUI); 
+    Keyboard.press('l');         
+    delay(100);
+    Keyboard.releaseAll();       
   }
 }
