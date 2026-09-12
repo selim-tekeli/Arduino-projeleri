@@ -78,7 +78,8 @@ Bu repository, yapılan Arduino projelerini, devre şemalarını, kodları ve ç
 
 ### 11. PC'den Gelen Verinin Okunması ve Tekrar PC'ye Gönderilmesi
 * **Arduino Kodu:** [pcden_gelen_verinin_okunmasi_ve_tekrar_pcye_gonderilmesi.ino](./11_pcden_gelen_verinin_okunmasi_ve_tekrar_pcye_gonderilmesi/pcden_gelen_verinin_okunmasi_ve_tekrar_pcye_gonderilmesi.ino)
-* <video src="https://github.com/user-attachments/assets/d473094f-007a-4c67-9dc7-13e6cbdf3020" controls width="100%"></video>
+* <video src="https://github.com/user-attachments/assets/https://github.com/user-attachments/assets/0c7e9149-7b09-4705-8f45-7dbbab566134" controls width="100%"></video>
+* 
 
 <video src="https://github.com/user-attachments/assets/8359eb4d-4143-497c-b8a2-7541107935b0" controls width="100%"></video>
 
@@ -86,7 +87,8 @@ Bu repository, yapılan Arduino projelerini, devre şemalarını, kodları ve ç
 
 ### 12. PC'den Gönderilen Tek Karakter ile LED Kontrolü
 * **Arduino Kodu:** [pcden_gonderilen_tek_karakter_ile_led_kontrolu.ino](./12_pcden_gonderilen_tek_karakter_ile_led_kontrolu/pcden_gonderilen_tek_karakter_ile_led_kontrolu.ino)
-* <video src="https://github.com/user-attachments/assets/https://github.com/user-attachments/assets/0c7e9149-7b09-4705-8f45-7dbbab566134" controls width="100%"></video>
+* <video src="https://github.com/user-attachments/assets/d473094f-007a-4c67-9dc7-13e6cbdf3020" controls width="100%"></video>
+  
 
 
 
