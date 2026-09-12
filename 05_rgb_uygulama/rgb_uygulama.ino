@@ -1,35 +1,35 @@
-const int Led=2; 
-const int Buton=4; 
-boolean oncekiDurum=LOW; 
-boolean simdikiDurum=LOW; 
-boolean ledAcikmi=false; 
+const int BlueLed = 11;  
+const int GreenLed = 10; 
+const int RedLed = 9;    
 
-void setup()
-{
-  pinMode(Led, OUTPUT); 
-  pinMode(Buton, INPUT); 
+void setup() {
+  pinMode(BlueLed, OUTPUT);
+  pinMode(GreenLed, OUTPUT);
+  pinMode(RedLed, OUTPUT);
 }
 
-boolean butonKontrol(boolean sonBtnDgr) 
-{
-  boolean simdiki=digitalRead(Buton); 
-  if(sonBtnDgr!=simdiki) 
-  {
-    delay(5); 
-    simdiki=digitalRead(Buton); 
-    return simdiki; 
-  }
-}
+void loop() {
+ 
+  digitalWrite(BlueLed, LOW);
+  digitalWrite(GreenLed, LOW);
+  digitalWrite(RedLed, HIGH);
+  delay(1000);
 
-void loop()
-{
+ 
+  digitalWrite(BlueLed, LOW);
+  digitalWrite(GreenLed, HIGH);
+  digitalWrite(RedLed, LOW);
+  delay(1000);
+
   
-  simdikiDurum=butonKontrol(oncekiDurum);
+  digitalWrite(BlueLed, HIGH);
+  digitalWrite(GreenLed, LOW);
+  digitalWrite(RedLed, LOW);
+  delay(1000);
+
   
-  if(oncekiDurum==LOW && simdikiDurum==HIGH)
-  { 
-    ledAcikmi= !ledAcikmi; 
-  }
-  oncekiDurum=simdikiDurum;
-  digitalWrite(Led, ledAcikmi); 
+  digitalWrite(BlueLed, HIGH);
+  digitalWrite(GreenLed, HIGH);
+  digitalWrite(RedLed, HIGH);
+  delay(1000);
 }
