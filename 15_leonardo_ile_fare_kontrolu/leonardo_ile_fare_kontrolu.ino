@@ -1,31 +1,19 @@
-#include <Wire.h>
-#include <LiquidCrystal_I2C.h>
+#include <Keyboard.h>
 
-
-
-LiquidCrystal_I2C lcd(0x27, 16, 2);
-
-int n = 1; 
-
+const int ldr = 1; 
+const int SinirDeger = 200; 
 void setup() {
-  lcd.init();          
-  lcd.backlight();     
-  
-  lcd.setCursor(0, 0); 
-  lcd.print("MERHABA ARDUINO TEST");
-  
-  lcd.setCursor(0, 1); 
-  lcd.print("SAYAC: ");
+  Keyboard.begin(); 
 }
 
 void loop() {
-  lcd.setCursor(7, 1); 
-  lcd.print(n);
+  int sensorDeger = analogRead(ldr); 
   
   
-  if (n < 10) lcd.print("   "); 
-  else if (n < 100) lcd.print("  ");
-
-  n = n + 1;
-  delay(1000); 
+  if (sensorDeger < SinirDeger) {
+    Keyboard.press(KEY_LEFT_GUI); 
+    Keyboard.press('l');         
+    delay(100);
+    Keyboard.releaseAll();       
+  }
 }
