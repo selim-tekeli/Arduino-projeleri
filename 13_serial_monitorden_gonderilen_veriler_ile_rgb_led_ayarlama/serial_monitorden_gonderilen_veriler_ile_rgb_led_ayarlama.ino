@@ -1,19 +1,32 @@
-#include <Keyboard.h>
+const int kirmizi=11;
+const int yesil=10;
+const int mavi=9;
 
-const int ldr = 1; 
-const int SinirDeger = 200; 
-void setup() {
-  Keyboard.begin(); 
+int kDeger=0;
+int yDeger=0;
+int mDeger=0;
+
+void setup()
+{
+  Serial.begin(9600);
+  pinMode(kirmizi,OUTPUT);
+  pinMode(yesil,OUTPUT);
+  pinMode(mavi,OUTPUT);
 }
 
-void loop() {
-  int sensorDeger = analogRead(ldr); 
-  
-  
-  if (sensorDeger < SinirDeger) {
-    Keyboard.press(KEY_LEFT_GUI); 
-    Keyboard.press('l');         
-    delay(100);
-    Keyboard.releaseAll();       
+void loop()
+{
+  while(Serial.available()>0) 
+  {
+    kDeger=Serial.parseInt();
+    yDeger=Serial.parseInt();
+    mDeger=Serial.parseInt();
+
+    if(Serial.read()=='\n')
+    {
+      analogWrite(kirmizi,kDeger);
+      analogWrite(yesil,yDeger);
+      analogWrite(mavi,mDeger);
+    }
   }
 }
