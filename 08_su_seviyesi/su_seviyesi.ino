@@ -1,19 +1,29 @@
-#include <Ultrasonic.h>
+const int giris=0; 
+int deger=0; 
+const int led=2; 
 
-
-Ultrasonic ultrasonikSensor(12, 13);
-
-void setup() {
-  Serial.begin(9600); 
+void setup ()
+{
+  Serial.begin (9600); 
+  pinMode (led, OUTPUT) ; 
 }
 
-void loop() {
-  Serial.print("Engele Olan mesafe: ");
+void loop()
+{
   
-  
-  
-  Serial.print(ultrasonikSensor.read()); 
-  
-  Serial.println(" cm"); 
-  delay(500);            
+  deger=analogRead (giris);
+
+  if (deger>512)
+  {
+    digitalWrite (led, HIGH) ; 
+    Serial.println ("sivi seviyesi meger:" ) ; 
+    Serial.println (deger) ;
+  }
+  else 
+  {
+    digitalWrite (led, LOW) ; 
+    Serial.println ("sivi seviyesi meger:" ) ; 
+    Serial.println (deger) ;
+  }
+  delay (50) ; 
 }
